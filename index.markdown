@@ -22,7 +22,7 @@ Human-Robot Collaboration
 
 Robots are used to accurately position elements and navigate within the complex spatial geometry of the structure, enabled by camera vision and coordinated robot-to-robot communication. However, human involvement remains essential—especially when dealing with irregular natural materials like wood. Humans make fine adjustments, push joints into place, and respond to unforeseen conditions. While robots handle heavy lifting and positioning, humans assemble and fine-tune the joints for a secure and adaptable fit.
 
-![img05](/assets/img/image_9.jpg)
+![img05](/assets/img/image_9_b.jpg)
 ![img06](/assets/img/image_5.jpg)
 
 Evolving Construction System
