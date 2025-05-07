@@ -22,8 +22,9 @@ title: Re:Config
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Human-robot adaptive workflows for disassembly, repair, and construction developed by CRCL EPFL
-  Research Team: Dr. Marirena Kladeftira, Alberto Johnsson
-  Supervision: Prof. Dr. Stefana Parascho, Prof. Dr. Corentin Fivet
+
+Research Team: Dr. Marirena Kladeftira, Alberto Johnsson
+Supervision: Prof. Dr. Stefana Parascho, Prof. Dr. Corentin Fivet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
