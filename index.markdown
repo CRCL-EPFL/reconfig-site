@@ -28,9 +28,9 @@ Robots are used to accurately position elements and navigate within the complex 
 Evolving Construction System
 
 ![img07](/assets/img/image_10.jpg)
-![img08](/assets/img/image_11.jpg)
+![img08](/assets/img/image_11.JPG)
 
 The repositioning of components and the resulting typological shift give rise to new structural connections between reclaimed elements. These connections are, using timber joinery supported by steel brackets. Reinforcement is achieved through material doubling, and beam extensions are made using techniques such as lap joints and scarf joints, allowing shorter pieces to be combined into longer spans.
 
-![img07](/assets/img/image_15.jpg)
-![img08](/assets/img/image_16.jpg)
+![img09](/assets/img/image_15.jpg)
+![img10](/assets/img/image_16.JPG)
