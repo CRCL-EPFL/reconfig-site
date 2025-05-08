@@ -33,3 +33,11 @@ The repositioning of components and the resulting typological shift give rise to
 ![img07](/assets/img/image_10.jpg)
 ![img09](/assets/img/image_15.jpg)
 ![img10](/assets/img/image_16.JPG)
+
+--------------
+
+### CREDITS
+
+by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org), [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/), [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira), and Alberto Johnsson
+
+With the support of: François Perrin, ..., and Eric Duong
