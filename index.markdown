@@ -46,6 +46,6 @@ The repositioning of components and the resulting typological shift give rise to
 
 ### CREDITS
 
-by , [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira) [Alberto Johnsson](https://ch.linkedin.com/in/alberto-johnsson) and supervised by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org) and [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/),
+by , [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira) , [Alberto Johnsson](https://ch.linkedin.com/in/alberto-johnsson) and supervised by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org) and [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/),
 
 With the support of: Arthur Breen, François Perrin, Gregory Spirlet, Luca Mari, Serge Despond and Eric Duong
