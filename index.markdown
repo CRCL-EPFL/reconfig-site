@@ -37,7 +37,7 @@ Robots are used to accurately position elements and navigate within the complex 
 
 The repositioning of components and the resulting typological shift give rise to new structural connections between reclaimed elements. These connections are, using timber joinery supported by steel brackets. Reinforcement is achieved through material doubling, and beam extensions are made using techniques such as lap joints and scarf joints, allowing shorter pieces to be combined into longer spans.
 
-![img08](/assets/img/image_11.JPG)
+![img08](/assets/img/image_12.JPG)
 ![img07](/assets/img/image_10.jpg)
 ![img09](/assets/img/image_15.jpg)
 ![img10](/assets/img/image_16.JPG)
@@ -46,6 +46,6 @@ The repositioning of components and the resulting typological shift give rise to
 
 ### CREDITS
 
-by , [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira) [Alberto Per Johnsson Alvarez](https://ch.linkedin.com/in/alberto-johnsson) and supervised by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org) and [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/),
+by , [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira) [Alberto Johnsson](https://ch.linkedin.com/in/alberto-johnsson) and supervised by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org) and [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/),
 
 With the support of: Arthur Breen, François Perrin, Gregory Spirlet, Luca Mari, Serge Despond and Eric Duong
