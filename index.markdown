@@ -12,9 +12,30 @@ By integrating robotic fabrication, computer vision, structural design, and assi
 
 --------------
 
+<div class="video-container">
 <iframe src="https://drive.google.com/file/d/1I34bRyQ7Coz0t-fO3IoDyIQRlJhD00D4/preview"
-        width="640" height="480" allow="autoplay" allowfullscreen>
+        allow="autoplay" allowfullscreen>
 </iframe>
+</div>
+
+<style>
+.video-container {
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
 
 --------------
 
