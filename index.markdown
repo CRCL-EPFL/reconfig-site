@@ -2,7 +2,13 @@
 layout: default
 ---
 
-![img01](/assets/img/fig1.jpeg)
+<iframe src="https://drive.google.com/file/d/1I34bRyQ7Coz0t-fO3IoDyIQRlJhD00D4/preview"
+        width="640" height="480" allow="autoplay" allowfullscreen>
+</iframe>
+
+
+--------------
+<!-- ![img01](/assets/img/fig1.jpeg) -->
 
 Re:Config explores new ways to adapt partially damaged or outdated timber structures by reconfiguring their spatial layouts and structural systems while preserving as much material as possible. The project introduces a hybrid workflow where humans and robots collaborate in processes of disassembly, repair, and reconstruction, navigating the uncertainties of material condition, ad-hoc tectonics, geometry, and other factors which cannot be accounted for a priori.
 
@@ -38,6 +44,6 @@ The repositioning of components and the resulting typological shift give rise to
 
 ### CREDITS
 
-by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org), [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/), [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira), and Alberto Johnsson
+by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org), [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/), [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira), and Alberto Per Johnsson Alvarez
 
-With the support of: François Perrin, ..., and Eric Duong
+With the support of: François Perrin, Gregory Spirlet, Luca Mari, and Eric Duong
