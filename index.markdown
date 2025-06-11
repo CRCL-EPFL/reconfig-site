@@ -67,8 +67,8 @@ The repositioning of components and the resulting typological shift give rise to
 
 ### CREDITS
 
-by [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira) , [Alberto Johnsson](https://ch.linkedin.com/in/alberto-johnsson) and supervised by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org) and [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/),
+by [Marirena Kladeftira](https://aap.cornell.edu/people/marirena-kladeftira) , [Alberto Johnsson](https://ch.linkedin.com/in/alberto-johnsson) and supervised by [Prof. Stefana Parascho](https://www.crclcrclcrcl.org) and [Prof. Corentin Fivet](https://www.epfl.ch/labs/sxl/).
 
-With the support of: Arthur Breen, Eric Duong, and [GIS](https://www.epfl.ch/schools/enac/gis/), François Perrin, Gregory Spirlet, Luca Mari, Serge Despond
+With the support of: Arthur Breen, Eric Duong, and [GIS](https://www.epfl.ch/schools/enac/gis/): François Perrin, Gregory Spirlet, Luca Mari, Serge Despond.
 
-ENAC interdisciplinary Cluster Grants
+ENAC interdisciplinary Cluster Grant.
